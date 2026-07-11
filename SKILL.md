@@ -1,4 +1,5 @@
 ---
+description: "将模糊需求翻译成结构化指令，最大化Agent产出的Prompt工程Skill"
 name: prompt-forge
 ---
 

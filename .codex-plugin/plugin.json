@@ -1,0 +1,32 @@
+{
+  "name": "prompt-forge",
+  "version": "0.1.0",
+  "description": "Prompt Forge plugin",
+  "author": {
+    "name": "cjh-blip"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Prompt Forge",
+    "shortDescription": "Use Prompt Forge in Codex.",
+    "longDescription": "Prompt Forge adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": "Help me use Prompt Forge.",
+    "brandColor": "#7C3AED"
+  },
+  "keywords": [
+    "prompt",
+    "prompt-forge",
+    "prompt engineering",
+    "prompt\u5de5\u7a0b",
+    "\u6307\u4ee4",
+    "skill"
+  ],
+  "homepage": "https://github.com/cjh-blip/prompt-forge",
+  "repository": "https://github.com/cjh-blip/prompt-forge",
+  "license": "MIT"
+}
